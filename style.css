@@ -1,0 +1,58 @@
+.logo{
+    height:110px;
+    width: 110px;
+}
+body{
+    background-color: blanchedalmond;
+}
+nav a{
+    border: 2px solid black;
+    border-radius:10px;
+    margin: 15px;
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    background-color: blanchedalmond;
+}
+table{
+    border: 2px solid black;
+}
+img{
+    width: 300px;
+    height:400px;
+}
+body{
+    font-size: 20px;
+}
+header{
+    background-color:rgb(209, 191, 163);
+} 
+header h1, img {
+text-align: center;
+}
+ main p {
+     background-color:rgb(230, 219, 201);
+     font-family: 'Courier New', Courier, monospace;
+ }
+ td{
+     border-bottom: 2px solid black;
+ }
+ footer{
+     background-color:rgb(209, 191, 163);
+ }
+ footer p{
+     background-color:rgb(230, 219, 201);
+ }
+ a{
+    border: 2px solid black;
+    border-radius:10px;
+    margin: 15px;
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
+.tel{
+    width: 25px;
+    height: 25px;
+}
